@@ -1,5 +1,5 @@
 # Distributed-System
-Projects done at SUNY Buffalo under CSE 568 course 
+Projects done at SUNY Buffalo under CSE 586 course 
 
 Ben-Or-Pluscal
 
